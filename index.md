@@ -4,17 +4,17 @@ layout: homepage
 
 ## About Me
 
-Hello, I'm Zhaienhe Zhou, a second-year Bachelor's student majoring in Computer Science at the University of Science and Technology of China (USTC), School of the Gifted Young. I'm also enrolled in the Talent Program in Computer Science (Yingcai Class).
-
+Hello, I'm Zhaienhe Zhou, a second-year bachelor's student majoring in Computer Science at the University of Science and Technology of China (USTC), School of the Gifted Young. I'm also enrolled in the Talent Program in Computer Science (Yingcai Class).
 
 My interests lie in theoretical computer science and I'm currently supervised by Prof. Xue Chen. I also participate in competitive programming, with achievements such as ICPC 2024 World-Finalist (expected), and multiple awards in NOI, ICPC Regional Contests & East Continent Final, USACO, and Codeforces.
 
 ## Research Interests
 
-I'm broadly interested in theoretical computer science, including randomized algorithms, pseudo-randomness, and graph theory. I've jointly submitted a research paper titled "Learning sparse parity with noise in linear samples" with Prof. Xue Chen and Wenxuan Shu.
+I'm interested in theoretical computer science, including randomized algorithms, pseudo-randomness, and graph theory.
 
-## Reasearch Projects
+## Research Projects
 
+- Learning sparse parity with noise in linear samples (submitted) (with Prof. Xue Chen and Wenxuan Shu)
 - Expansion on Regular Graph
 
 ## Honors and Awards
