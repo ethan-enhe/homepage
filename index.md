@@ -22,7 +22,7 @@ I'm interested in theoretical computer science, including randomized algorithms,
 - **Gold Medal, 14th place in the 2023 ICPC Asia-East Continent Final Contest.**
 - Gold Medal, 6th place in the 2023 ICPC Asia Hangzhou Regional Contest.
 - Silver Medal at the 2022 NOI-CCF Winter Camp.
-- Bronze Medal as a member of the Beijing Provincial Team in the China National Olympiad of Informatics.
+- Bronze Medal in NOI 2021.
 - Silver Medal in the 2020 Asia-Pacific Informatics Olympiad, China region.
 - Second Prize in the National College Student Mathematics Competition, Non-Mathematics Category.
 - Silver Scholarship, Talent Program Scholarship, Admission Scholarship.
