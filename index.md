@@ -14,7 +14,7 @@ I'm interested in theoretical computer science, including randomized algorithms,
 
 ## Research Projects
 
-- Learning sparse parity with noise in linear samples (submitted) (with Prof. Xue Chen and Wenxuan Shu)
+- Learning sparse parity with noise in linear samples (submitted) (with Prof. Xue Chen and Wenxuan Shu) [arxiv](https://arxiv.org/abs/2407.19215)
 - Expansion on Regular Graph
 
 ## Honors and Awards
