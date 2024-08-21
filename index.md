@@ -10,12 +10,13 @@ My interests lie in theoretical computer science and I'm currently supervised by
 
 ## Research Interests
 
-I'm interested in theoretical computer science, including randomized algorithms, pseudo-randomness, and graph theory.
+I'm interested in theoretical computer science, including randomized algorithms, and graph theory.
 
 ## Research Projects
 
+- Improved decoding of Tanner codes (in preparation) (with Prof. Zeyu Guo)
 - Learning sparse parity with noise in linear samples (submitted) (with Prof. Xue Chen and Wenxuan Shu) [arxiv](https://arxiv.org/abs/2407.19215)
-- Expansion on Regular Graph
+- Expansion on Regular Graph (supervised by Prof. Xue Chen)
 
 ## Honors and Awards
 
@@ -27,7 +28,7 @@ I'm interested in theoretical computer science, including randomized algorithms,
 - Second Prize in the National College Student Mathematics Competition, Non-Mathematics Category.
 - Silver Scholarship, Talent Program Scholarship, Admission Scholarship.
 
-## Teaching Experience
+## Teaching
 
 - Teaching Assistant for Foundations of Algorithms at USTC, where I designed lab assignments and held weekly office hours.
 - Competition Coach for the Winter 2024 Coding Course at TopsCoding, where I presented tutorials on string algorithms and number theory.
