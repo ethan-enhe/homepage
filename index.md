@@ -19,9 +19,9 @@ My primary research areas include:
   Advisor: Prof. Zeyu Guo  
   Presented improved algorithms for decoding Tanner codes and investigating previous work on expander codes and insertion-deletion codes.
 
-- **Algorithms for sparse LPN and LSPN against low-noise** (in preparation)  
+- **Algorithms for sparse LPN and LSPN against low-noise** (in submission)  
   Advisor: Prof. Xue Chen, with Wenxuan Shu  
-  Developed improved algorithms in low-noise and high-noise settings. [arxiv](https://arxiv.org/abs/2407.19215)
+  Developed improved algorithms in low-noise and high-noise settings. Draft: [arxiv](https://arxiv.org/abs/2407.19215)
 
 - **Expansion on Regular Graph** (2023.9 – 2024.1)  
   Advisor: Prof. Xue Chen  
